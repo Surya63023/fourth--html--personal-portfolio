@@ -73,6 +73,6 @@ I’m open to connecting with developers, recruiters, or anyone interested in co
 ## 🌐 Live Demo
 
 Check the live portfolio on **GitHub Pages**:  
-[Surya Teja Portfolio](https://YourUsername.github.io/my-portfolio/)
+[Surya Teja Portfolio](https://surya63023.github.io/fourth--html--personal-portfolio/)
 
 > This portfolio is continuously updated with new projects, achievements, and skills.
